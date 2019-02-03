@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Gradle suite" duration-ms="14340" started-at="2019-01-31T12:49:47Z" finished-at="2019-01-31T12:50:01Z">
+    <groups>
+    </groups>
+    <test name="Gradle test" duration-ms="14340" started-at="2019-01-31T12:49:47Z" finished-at="2019-01-31T12:50:01Z">
+      <class name="NewTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:NewTest@30f3036c]" name="setUp" is-config="true" duration-ms="10904" started-at="2019-01-31T12:49:47Z" finished-at="2019-01-31T12:49:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testSearchSeleniumWebDriver()[pri:0, instance:NewTest@30f3036c]" name="testSearchSeleniumWebDriver" duration-ms="3384" started-at="2019-01-31T12:49:58Z" finished-at="2019-01-31T12:50:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearchSeleniumWebDriver -->
+      </class> <!-- NewTest -->
+    </test> <!-- Gradle test -->
+  </suite> <!-- Gradle suite -->
+</testng-results>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="NewTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-01-31T12:49:58" hostname="DESKTOP-3PNL7PL" time="3.384">
+  <properties/>
+  <testcase name="testSearchSeleniumWebDriver" classname="NewTest" time="3.384"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+янв 31, 2019 2:49:47 PM java.util.prefs.WindowsPreferences <init>
+WARNING: Could not open/create prefs root node Software\JavaSoft\Prefs at root 0x80000002. Windows RegCreateKeyEx(...) returned error code 5.
+1548938990222	geckodriver	INFO	geckodriver 0.21.0
+1548938990250	geckodriver	INFO	Listening on 127.0.0.1:45625
+1548938991190	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ANNABA~1\\AppData\\Local\\Temp\\rust_mozprofile.m4HicCVC1bbA"
+Unable to read VR Path Registry from C:\Users\Anna Balaban\AppData\Local\openvr\openvrpaths.vrpath
+1548938992728	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Anna Balaban\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Anna Balaban\AppData\Local\openvr\openvrpaths.vrpath
+1548938997294	Marionette	INFO	Listening on port 57430
+1548938997542	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Anna Balaban\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Anna Balaban\AppData\Local\openvr\openvrpaths.vrpath
+янв 31, 2019 2:49:58 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>
